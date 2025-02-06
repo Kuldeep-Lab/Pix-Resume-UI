@@ -1,0 +1,13 @@
+.carousel {
+    perspective: 1200px;
+}
+.carousel-inner {
+    transform-style: preserve-3d;
+    transition: transform 1s;
+}
+/* .carousel-item {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+     backface-visibility: hidden; 
+} */
